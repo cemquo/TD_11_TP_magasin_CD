@@ -1,0 +1,10 @@
+Dans le main on crée un objet ChargeurMagasin. 
+On appelle la méthode chargerMagasin() de la classe ChargeurMagasin. 
+On crée un objet Magasin. On crée un objet ChargeurCD. 
+On appelle la méthode chargerCD() de la classe ChargeurCD. 
+On crée un objet CD avec ces attributs. 
+On appelle les méthodes extrairePiste() et ajouterPiste(). 
+On appelle la méthode ajouterPiste() de la classe CD. 
+On éxecute cela 2 fois.
+La classe ChargeurMagasin appelle la méthode ajouteCD() pour l'objet cd1 que nous avons crée juste avant.
+Execution terminée.
